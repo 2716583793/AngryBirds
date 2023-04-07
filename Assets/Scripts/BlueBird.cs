@@ -13,13 +13,12 @@ public class BlueBird : Bird
         Vector3 v1 = new Vector3(transform.position.x, transform.position.y + 0.5f, transform.position.z);
         Vector3 v2 = new Vector3(transform.position.x, transform.position.y - 0.5f, transform.position.z);
         //创建分身
-        BlueBird b1 = Instantiate(this, v1, Quaternion.identity);
-        BlueBird b2 = Instantiate(this, v2, Quaternion.identity);
+        _b1 = Instantiate(this, v1, Quaternion.identity);
+        _b2 = Instantiate(this, v2, Quaternion.identity);
         //赋予速度
         rg.velocity = speed;
-        b1.rg.velocity = speed;
-        b2.rg.velocity = speed;
-        b1.enabled = false;
-        b2.enabled = false;
+        _b1.rg.velocity = speed;
+        _b2.rg.velocity = speed;
+        isShowBlue = true;
     }
 }

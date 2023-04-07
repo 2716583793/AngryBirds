@@ -35,6 +35,10 @@ public class Bird : MonoBehaviour
     public Sprite hurt; //小鸟受伤图片
     protected SpriteRenderer rd; //小鸟图片渲染
     
+    protected BlueBird _b1;
+    protected BlueBird _b2;
+    [HideInInspector]public bool isShowBlue;
+    
     /// <summary>
     /// 唤醒事件
     /// </summary>
@@ -176,6 +180,10 @@ public class Bird : MonoBehaviour
     protected virtual void Next()
     {
         GameManager.instance.birds.Remove(this); //从集合中移除当前小鸟
+        if (isShowBlue)
+        {
+            DropBirds();
+        }
         Destroy(gameObject); //销毁当前小鸟
         Instantiate(boom, transform.position, Quaternion.identity); //显示小鸟销毁动画
         GameManager.instance.NextBird(); //判定游戏逻辑
@@ -225,5 +233,16 @@ public class Bird : MonoBehaviour
     public void AudioPlay(AudioClip clip)
     {
         AudioSource.PlayClipAtPoint(clip, transform.position); //添加指定音效
+    }
+    
+    /// <summary>
+    /// 销毁分身
+    /// </summary>
+    public void DropBirds()
+    {
+        Destroy(_b1.gameObject);
+        Destroy(_b2.gameObject);
+        Instantiate(_b1.boom, _b1.transform.position, Quaternion.identity); //显示小鸟销毁动画
+        Instantiate(_b2.boom, _b2.transform.position, Quaternion.identity); //显示小鸟销毁动画
     }
 }
