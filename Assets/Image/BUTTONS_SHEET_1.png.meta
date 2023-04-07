@@ -1,0 +1,2700 @@
+fileFormatVersion: 2
+guid: 0268cf5b3aa31f043b85d1d79d301cbe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6556768811377251087
+    second: BUTTONS_SHEET_1_0
+  - first:
+      213: -1607968330676014974
+    second: BUTTONS_SHEET_1_1
+  - first:
+      213: 2162875245630818775
+    second: BUTTONS_SHEET_1_2
+  - first:
+      213: 943027145964932108
+    second: BUTTONS_SHEET_1_3
+  - first:
+      213: -7517244516107838765
+    second: BUTTONS_SHEET_1_4
+  - first:
+      213: -6446865730555537140
+    second: BUTTONS_SHEET_1_5
+  - first:
+      213: 185953292843129380
+    second: BUTTONS_SHEET_1_6
+  - first:
+      213: 602949673708357434
+    second: BUTTONS_SHEET_1_7
+  - first:
+      213: -48779680154580362
+    second: BUTTONS_SHEET_1_8
+  - first:
+      213: 5694356356860183828
+    second: BUTTONS_SHEET_1_9
+  - first:
+      213: -3342756964190213156
+    second: BUTTONS_SHEET_1_10
+  - first:
+      213: 1735309826199093983
+    second: BUTTONS_SHEET_1_11
+  - first:
+      213: 6455873226873715257
+    second: BUTTONS_SHEET_1_12
+  - first:
+      213: -5388392071505044292
+    second: BUTTONS_SHEET_1_13
+  - first:
+      213: -1573229858850418373
+    second: BUTTONS_SHEET_1_14
+  - first:
+      213: -7821546370396295298
+    second: BUTTONS_SHEET_1_15
+  - first:
+      213: 288386643856874261
+    second: BUTTONS_SHEET_1_16
+  - first:
+      213: 916316978693067221
+    second: BUTTONS_SHEET_1_17
+  - first:
+      213: 6409871440259174439
+    second: BUTTONS_SHEET_1_18
+  - first:
+      213: -4727436046223240947
+    second: BUTTONS_SHEET_1_19
+  - first:
+      213: 2505726449061520656
+    second: BUTTONS_SHEET_1_20
+  - first:
+      213: -1101676369981321590
+    second: BUTTONS_SHEET_1_21
+  - first:
+      213: -3648318512329809250
+    second: BUTTONS_SHEET_1_22
+  - first:
+      213: 330695671590317684
+    second: BUTTONS_SHEET_1_23
+  - first:
+      213: -9151055419061566651
+    second: BUTTONS_SHEET_1_24
+  - first:
+      213: -3520166413702475546
+    second: BUTTONS_SHEET_1_25
+  - first:
+      213: 3747750091669491688
+    second: BUTTONS_SHEET_1_26
+  - first:
+      213: 717807030892075420
+    second: BUTTONS_SHEET_1_27
+  - first:
+      213: -410493521573492620
+    second: BUTTONS_SHEET_1_28
+  - first:
+      213: -6825708848041754470
+    second: BUTTONS_SHEET_1_29
+  - first:
+      213: 2666545766988838423
+    second: BUTTONS_SHEET_1_30
+  - first:
+      213: -8436244843302783381
+    second: BUTTONS_SHEET_1_31
+  - first:
+      213: -1573614139566282216
+    second: BUTTONS_SHEET_1_32
+  - first:
+      213: -7626708867331352456
+    second: BUTTONS_SHEET_1_33
+  - first:
+      213: -1382753297055775841
+    second: BUTTONS_SHEET_1_34
+  - first:
+      213: 7328901072979519811
+    second: BUTTONS_SHEET_1_35
+  - first:
+      213: -4021809044168043794
+    second: BUTTONS_SHEET_1_36
+  - first:
+      213: -3181745081158003333
+    second: BUTTONS_SHEET_1_37
+  - first:
+      213: 6325208446082774869
+    second: BUTTONS_SHEET_1_38
+  - first:
+      213: 5558579644720434631
+    second: BUTTONS_SHEET_1_39
+  - first:
+      213: 8728014952425169908
+    second: BUTTONS_SHEET_1_40
+  - first:
+      213: -2844987174762790444
+    second: BUTTONS_SHEET_1_41
+  - first:
+      213: -7657509008724469896
+    second: BUTTONS_SHEET_1_42
+  - first:
+      213: 808808699487280073
+    second: BUTTONS_SHEET_1_43
+  - first:
+      213: 5480595211795805653
+    second: BUTTONS_SHEET_1_44
+  - first:
+      213: -4618212455709319780
+    second: BUTTONS_SHEET_1_45
+  - first:
+      213: -1283039336586666666
+    second: BUTTONS_SHEET_1_46
+  - first:
+      213: -1812406765479145456
+    second: BUTTONS_SHEET_1_47
+  - first:
+      213: 1062515780234918390
+    second: BUTTONS_SHEET_1_48
+  - first:
+      213: 7369172152755053014
+    second: BUTTONS_SHEET_1_49
+  - first:
+      213: 7493758237751969384
+    second: BUTTONS_SHEET_1_50
+  - first:
+      213: 7401758211711194111
+    second: BUTTONS_SHEET_1_51
+  - first:
+      213: -2358394170654150523
+    second: BUTTONS_SHEET_1_52
+  - first:
+      213: -3526622452551376772
+    second: BUTTONS_SHEET_1_53
+  - first:
+      213: -5263844475452896041
+    second: BUTTONS_SHEET_1_54
+  - first:
+      213: -4243386825173514493
+    second: BUTTONS_SHEET_1_55
+  - first:
+      213: 7552946567261886825
+    second: BUTTONS_SHEET_1_56
+  - first:
+      213: -1121211623748201695
+    second: BUTTONS_SHEET_1_57
+  - first:
+      213: -8335461971526848662
+    second: BUTTONS_SHEET_1_58
+  - first:
+      213: 442698959604815467
+    second: BUTTONS_SHEET_1_59
+  - first:
+      213: -6519742173813183286
+    second: BUTTONS_SHEET_1_60
+  - first:
+      213: -426231858625947134
+    second: BUTTONS_SHEET_1_61
+  - first:
+      213: 6504667207952931310
+    second: BUTTONS_SHEET_1_62
+  - first:
+      213: 3724137078858650039
+    second: BUTTONS_SHEET_1_63
+  - first:
+      213: 2653415793251389002
+    second: BUTTONS_SHEET_1_64
+  - first:
+      213: -5947360887002424421
+    second: BUTTONS_SHEET_1_65
+  - first:
+      213: -4136807531383559460
+    second: BUTTONS_SHEET_1_66
+  - first:
+      213: 3591811937676782670
+    second: BUTTONS_SHEET_1_67
+  - first:
+      213: 8946212323397336893
+    second: BUTTONS_SHEET_1_68
+  - first:
+      213: -5346801939948917565
+    second: BUTTONS_SHEET_1_69
+  - first:
+      213: -4818962592381285721
+    second: BUTTONS_SHEET_1_70
+  - first:
+      213: -702800576733902569
+    second: BUTTONS_SHEET_1_71
+  - first:
+      213: -3064696837229689262
+    second: BUTTONS_SHEET_1_72
+  - first:
+      213: -1698895829727132714
+    second: BUTTONS_SHEET_1_73
+  - first:
+      213: -600645283028239734
+    second: BUTTONS_SHEET_1_74
+  - first:
+      213: -2223864112744627503
+    second: BUTTONS_SHEET_1_75
+  - first:
+      213: -5970929064728010578
+    second: BUTTONS_SHEET_1_76
+  - first:
+      213: 7830829861001923473
+    second: BUTTONS_SHEET_1_77
+  - first:
+      213: -2977104810851399395
+    second: BUTTONS_SHEET_1_78
+  - first:
+      213: 3913340595815377988
+    second: BUTTONS_SHEET_1_79
+  - first:
+      213: 515722711629001446
+    second: BUTTONS_SHEET_1_80
+  - first:
+      213: 2021311507295790921
+    second: BUTTONS_SHEET_1_81
+  - first:
+      213: 5127025341870470977
+    second: BUTTONS_SHEET_1_82
+  - first:
+      213: -1948882935545437960
+    second: BUTTONS_SHEET_1_83
+  - first:
+      213: 851324171348460663
+    second: BUTTONS_SHEET_1_84
+  - first:
+      213: 3769743737338930502
+    second: BUTTONS_SHEET_1_85
+  - first:
+      213: 808909640512861780
+    second: BUTTONS_SHEET_1_86
+  - first:
+      213: 5524372346033151664
+    second: BUTTONS_SHEET_1_87
+  - first:
+      213: -2413769706151884009
+    second: BUTTONS_SHEET_1_88
+  - first:
+      213: -1192106140536557714
+    second: BUTTONS_SHEET_1_89
+  - first:
+      213: 8571538955899221204
+    second: BUTTONS_SHEET_1_90
+  - first:
+      213: -9131196676140234917
+    second: BUTTONS_SHEET_1_91
+  - first:
+      213: -7928887772013698214
+    second: BUTTONS_SHEET_1_92
+  - first:
+      213: 2570942295615563686
+    second: BUTTONS_SHEET_1_93
+  - first:
+      213: 3980061935414505928
+    second: BUTTONS_SHEET_1_94
+  - first:
+      213: 482030123686880586
+    second: BUTTONS_SHEET_1_95
+  - first:
+      213: 3195826843303584112
+    second: BUTTONS_SHEET_1_96
+  - first:
+      213: 5510869804315855638
+    second: BUTTONS_SHEET_1_97
+  - first:
+      213: 8188780613424051912
+    second: BUTTONS_SHEET_1_98
+  - first:
+      213: -8935899087160328353
+    second: BUTTONS_SHEET_1_99
+  - first:
+      213: 4440036390441375442
+    second: BUTTONS_SHEET_1_100
+  - first:
+      213: 8193488241733504798
+    second: BUTTONS_SHEET_1_101
+  - first:
+      213: 9053772284745684763
+    second: BUTTONS_SHEET_1_102
+  - first:
+      213: -1751843456338672122
+    second: BUTTONS_SHEET_1_103
+  - first:
+      213: -4544193677881254284
+    second: BUTTONS_SHEET_1_104
+  - first:
+      213: -6948016902105571551
+    second: BUTTONS_SHEET_1_105
+  - first:
+      213: -3210968961058066161
+    second: BUTTONS_SHEET_1_106
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1291
+        width: 156
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcaf7b518da105a0800000000000000
+      internalID: -6556768811377251087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1304
+        width: 142
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2807af792595fa9e0800000000000000
+      internalID: -1607968330676014974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1306
+        width: 121
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d98f459393140e10800000000000000
+      internalID: 2162875245630818775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_3
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1314
+        width: 135
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c4ac0613e461d00800000000000000
+      internalID: 943027145964932108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_4
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1317
+        width: 57
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da93afc0f16da790800000000000000
+      internalID: -7517244516107838765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_5
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1317
+        width: 7
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09199766c12886a0800000000000000
+      internalID: -6446865730555537140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_6
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1405
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a9abcd883a49200800000000000000
+      internalID: 185953292843129380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_7
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1355
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3703de988b1e5800800000000000000
+      internalID: 602949673708357434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_8
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1311
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a012ca323b25ff0800000000000000
+      internalID: -48779680154580362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4158323cfea660f40800000000000000
+      internalID: 5694356356860183828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_10
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1278
+        width: 124
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbaaf270442c91d0800000000000000
+      internalID: -3342756964190213156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1139
+        width: 135
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd287d5c71f051810800000000000000
+      internalID: 1735309826199093983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_12
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1139
+        width: 135
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a33c2ce7ed79950800000000000000
+      internalID: 6455873226873715257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_13
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1145
+        width: 123
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc196bb5f59835b0800000000000000
+      internalID: -5388392071505044292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_14
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1165
+        width: 103
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31de2957c3ca2ae0800000000000000
+      internalID: -1573229858850418373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_15
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1164
+        width: 107
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f68463409447390800000000000000
+      internalID: -7821546370396295298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_16
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1181
+        width: 99
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b5e09ef1e800400800000000000000
+      internalID: 288386643856874261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_17
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1137
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1d8a0ff6967bc00800000000000000
+      internalID: 916316978693067221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_18
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1142
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720d19c2d1074f850800000000000000
+      internalID: 6409871440259174439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1020
+        width: 254
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d019c7686f5c46eb0800000000000000
+      internalID: -4727436046223240947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_20
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1022
+        width: 108
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015ec94fde026c220800000000000000
+      internalID: 2505726449061520656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_21
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1023
+        width: 107
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e42ddad2f06b0f0800000000000000
+      internalID: -1101676369981321590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_22
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1024
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92a91584a19e5dc0800000000000000
+      internalID: -3648318512329809250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_23
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1024
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e66e116fdd69400800000000000000
+      internalID: 330695671590317684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 907
+        width: 108
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5430ceaa49be00180800000000000000
+      internalID: -9151055419061566651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_25
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 911
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0d0012c4bd52fc0800000000000000
+      internalID: -3520166413702475546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 907
+        width: 107
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efc5e81adea20430800000000000000
+      internalID: 3747750091669491688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_27
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 906
+        width: 107
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99999501b926f900800000000000000
+      internalID: 717807030892075420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_28
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 914
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47843082152ad4af0800000000000000
+      internalID: -410493521573492620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_29
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 907
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a900b3487f53641a0800000000000000
+      internalID: -6825708848041754470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_30
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 938
+        width: 67
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716f0b24f39710520800000000000000
+      internalID: 2666545766988838423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_31
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 792
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6677bc13007cea80800000000000000
+      internalID: -8436244843302783381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_32
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 792
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81aae950746692ae0800000000000000
+      internalID: -1573614139566282216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_33
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 791
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878946571bc782690800000000000000
+      internalID: -7626708867331352456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_34
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 791
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f938df4d3397fcce0800000000000000
+      internalID: -1382753297055775841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_35
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 806
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3496ce812bc75b560800000000000000
+      internalID: 7328901072979519811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_36
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 792
+        width: 107
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee219e79bf9af28c0800000000000000
+      internalID: -4021809044168043794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_37
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 817
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b751bbfc4bb28d3d0800000000000000
+      internalID: -3181745081158003333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_38
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 678
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557701fb197a7c750800000000000000
+      internalID: 6325208446082774869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_39
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 676
+        width: 106
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd474b7cba042d40800000000000000
+      internalID: 5558579644720434631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_40
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 677
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3a9913b53202970800000000000000
+      internalID: 8728014952425169908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_41
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 677
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1c8b9ec339488d0800000000000000
+      internalID: -2844987174762790444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_42
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 676
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877df96b0201bb590800000000000000
+      internalID: -7657509008724469896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_43
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 675
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb5f281a37793b00800000000000000
+      internalID: 808808699487280073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_44
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 702
+        width: 79
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5bbc4ce4cfe0c40800000000000000
+      internalID: 5480595211795805653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 563
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d59286d30d8efb0800000000000000
+      internalID: -4618212455709319780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_46
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 568
+        width: 112
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d16ed658ab13ee0800000000000000
+      internalID: -1283039336586666666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_47
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 589
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010d91b36a909d6e0800000000000000
+      internalID: -1812406765479145456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_48
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 589
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f936210970debe00800000000000000
+      internalID: 1062515780234918390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_49
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 579
+        width: 99
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d16aa5870f844660800000000000000
+      internalID: 7369172152755053014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_50
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 579
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8660dd1e96d2ff760800000000000000
+      internalID: 7493758237751969384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_51
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 591
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3506a90e358b660800000000000000
+      internalID: 7401758211711194111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 452
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580bec14ffc454fd0800000000000000
+      internalID: -2358394170654150523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_53
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 476
+        width: 93
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7022c2709bee0fc0800000000000000
+      internalID: -3526622452551376772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_54
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 476
+        width: 333
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc4abfa65113f6b0800000000000000
+      internalID: -5263844475452896041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_55
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 486
+        width: 68
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307c5f83a267c15c0800000000000000
+      internalID: -4243386825173514493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_56
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 492
+        width: 92
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969962db2e471d860800000000000000
+      internalID: 7552946567261886825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 106
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1231378f7f7a070f0800000000000000
+      internalID: -1121211623748201695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_58
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 375
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f6d54008d725c80800000000000000
+      internalID: -8335461971526848662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_59
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 390
+        width: 256
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b661ea5bb58c42600800000000000000
+      internalID: 442698959604815467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_60
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 395
+        width: 154
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc6bb639093585a0800000000000000
+      internalID: -6519742173813183286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_61
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 405
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a55a20268b51af0800000000000000
+      internalID: -426231858625947134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_62
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 278
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee99a28cc58354a50800000000000000
+      internalID: 6504667207952931310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_63
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 241
+        width: 75
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b11b3021facea330800000000000000
+      internalID: 3724137078858650039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_64
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 317
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e09260b93d2d420800000000000000
+      internalID: 2653415793251389002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_65
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 352
+        width: 121
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b1b23a8cab67da0800000000000000
+      internalID: -5947360887002424421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_66
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 318
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdae8bbc77b1796c0800000000000000
+      internalID: -4136807531383559460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_67
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 327
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c6b355deda8d130800000000000000
+      internalID: 3591811937676782670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_68
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 315
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ff15585b4572c70800000000000000
+      internalID: 8946212323397336893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_69
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 315
+        width: 126
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cca9f4d6f75cc5b0800000000000000
+      internalID: -5346801939948917565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_70
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 181
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aac73fdd0b9f1db0800000000000000
+      internalID: -4818962592381285721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_71
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 240
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71906db59962f36f0800000000000000
+      internalID: -702800576733902569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_72
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 243
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25649a8c6720875d0800000000000000
+      internalID: -3064696837229689262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_73
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 244
+        width: 132
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3c8b67e3f4c68e0800000000000000
+      internalID: -1698895829727132714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_74
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 244
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a76152c441aa7f0800000000000000
+      internalID: -600645283028239734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_75
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 252
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d20e1b3f5f3321e0800000000000000
+      internalID: -2223864112744627503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_76
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 135
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0e4d5a6aff22da0800000000000000
+      internalID: -5970929064728010578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_77
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 87
+        width: 75
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b8a81e442bcac60800000000000000
+      internalID: 7830829861001923473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_78
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 164
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19881aa2f23fa6d0800000000000000
+      internalID: -2977104810851399395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_79
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 171
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ce0b2c98afe4630800000000000000
+      internalID: 3913340595815377988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_80
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 177
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e27f35e217382700800000000000000
+      internalID: 515722711629001446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_81
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 215
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94766c44b142d0c10800000000000000
+      internalID: 2021311507295790921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_82
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 215
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1477d90626ad62740800000000000000
+      internalID: 5127025341870470977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_83
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 84
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f06ef5bb4d24f4e0800000000000000
+      internalID: -1948882935545437960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_84
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 178
+        width: 86
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774cde5c2d280db00800000000000000
+      internalID: 851324171348460663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_85
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 178
+        width: 134
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6452756c4f1d05430800000000000000
+      internalID: 3769743737338930502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_86
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 87
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45678224803d93b00800000000000000
+      internalID: 808909640512861780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_87
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 100
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be1c4c11638aac40800000000000000
+      internalID: 5524372346033151664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_88
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 124
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bc73fad31908ed0800000000000000
+      internalID: -2413769706151884009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_89
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 141
+        width: 184
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fa1cef7c9c47fe0800000000000000
+      internalID: -1192106140536557714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_90
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 38
+        width: 99
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4bbc4344934f670800000000000000
+      internalID: 8571538955899221204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_91
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 105
+        width: 63
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b570f609009774180800000000000000
+      internalID: -9131196676140234917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_92
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 105
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a536f25949ee6f190800000000000000
+      internalID: -7928887772013698214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_93
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 105
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7613c7562dda320800000000000000
+      internalID: 2570942295615563686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_94
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 111
+        width: 96
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c17f643e350c3730800000000000000
+      internalID: 3980061935414505928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_95
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 3
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45e465f7d380b600800000000000000
+      internalID: 482030123686880586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_96
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 7
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071a4cee49bd95c20800000000000000
+      internalID: 3195826843303584112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_97
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 16
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b4ca1a3ea8a7c40800000000000000
+      internalID: 5510869804315855638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_98
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 30
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6feb6f49464a170800000000000000
+      internalID: 8188780613424051912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_99
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 47
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f3219ef1f4df380800000000000000
+      internalID: -8935899087160328353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_100
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 72
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6d012a29d2e9d30800000000000000
+      internalID: 4440036390441375442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_101
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 72
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f8dd7152e15b170800000000000000
+      internalID: 8193488241733504798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_102
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 72
+        width: 85
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b171b8d8ce575ad70800000000000000
+      internalID: 9053772284745684763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_103
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 43
+        width: 67
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60647da78a330b7e0800000000000000
+      internalID: -1751843456338672122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_104
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 43
+        width: 151
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47edf471de7cfe0c0800000000000000
+      internalID: -4544193677881254284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 98
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f5690907fa39f90800000000000000
+      internalID: -6948016902105571551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_SHEET_1_106
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 10
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01345b0eb85073d0800000000000000
+      internalID: -3210968961058066161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
