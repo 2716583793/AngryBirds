@@ -30,17 +30,19 @@ public class BlackBird : Bird
 
     public override void ShowBlackSkill() //爆炸技能
     {
-        base.ShowSkill();
-        if (blocks.Count > 0 && blocks != null)
+        base.ShowBlackSkill();
+        if (blocks != null)
         {
-            for (var i = 0; i < blocks.Count; i++) //遍历销毁靠近的物体
+            if (blocks.Count > 0)
             {
-                blocks[i].Dead();
+                for (var i = 0; i < blocks.Count; i++) //遍历销毁靠近的物体
+                {
+                    blocks[i].Dead();
+                }
             }
         }
-
         OnClear();
-        Next(); //爆炸后即使销毁切换下一只小鸟
+        Invoke("Next", 3f); //爆炸后销毁切换下一只小鸟
     }
 
     private void OnClear()

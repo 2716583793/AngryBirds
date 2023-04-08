@@ -128,7 +128,7 @@ public class GameManager : MonoBehaviour
     }
 
     /// <summary>
-    /// 影藏按钮
+    /// 隐藏按钮
     /// </summary>
     public void SetButtonHide()
     {
