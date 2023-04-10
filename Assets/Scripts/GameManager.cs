@@ -60,14 +60,15 @@ public class GameManager : MonoBehaviour
         if (!birds[0].isFly)
             return;
         //print(birds[0].GetComponent<Rigidbody2D>().velocity.sqrMagnitude);
-        _next = (_next + 1) % tails.Length; //循环打印tail数组
+        var rd = new System.Random();
+        _next = rd.Next(tails.Length); //随机打印tail数组
         var newTail = Instantiate(tails[_next], birds[0].transform.position, Quaternion.identity);
         tailLine.Add(newTail);
     }
 
     private void DropLine()
     {
-        for (int i = 0; i < tailLine.Count; i++)
+        for (var i = 0; i < tailLine.Count; i++)
         {
             Destroy(tailLine.ElementAt(i), 2f);
         }
@@ -98,7 +99,7 @@ public class GameManager : MonoBehaviour
                 birds[i].canMove = false; //不可移动
             }
 
-            InvokeRepeating("SpawnTrail", 0.05f, 0.05f); //每0.05秒调用一次画拖尾方法
+            InvokeRepeating("SpawnTrail", 0.05f, 0.1f); //每0.05秒调用一次画拖尾方法
         }
     }
 

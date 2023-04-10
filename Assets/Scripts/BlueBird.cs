@@ -6,6 +6,9 @@ using UnityEngine;
 /// </summary>
 public class BlueBird : Bird
 {
+    /// <summary>
+    /// 分身技能
+    /// </summary>
     protected override void ShowSkill()
     {
         base.ShowSkill();
