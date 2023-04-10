@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 7809270492831951221}
   - component: {fileID: 7809270492831951220}
   - component: {fileID: 7809270492831951227}
+  - component: {fileID: 4570494923264101296}
   - component: {fileID: 3751191626605332215}
   m_Layer: 0
   m_Name: blueBird
@@ -144,6 +145,22 @@ CircleCollider2D:
   m_Offset: {x: 0, y: -0.01}
   serializedVersion: 2
   m_Radius: 0.13
+--- !u!58 &4570494923264101296
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7809270492831951225}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: -0.01}
+  serializedVersion: 2
+  m_Radius: 0.8
 --- !u!114 &3751191626605332215
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -169,8 +186,8 @@ MonoBehaviour:
   hurtClip: {fileID: 8300000, guid: 32b5cb2ec3029484eb0a71e43bd697e0, type: 3}
   isFly: 0
   isOriginal: 1
-  isTooShort: 0
   hurt: {fileID: 9171694573991561874, guid: 2bd585ec19b3bf640ac3226b2ab0f92a, type: 3}
+  isShowBlue: 0
 --- !u!1 &7809270493479012497
 GameObject:
   m_ObjectHideFlags: 0

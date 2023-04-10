@@ -6,7 +6,7 @@ public class YellowBird : Bird
     /// <summary>
     /// 加速技能
     /// </summary>
-    public override void ShowSkill()
+    protected override void ShowSkill()
     {
         base.ShowSkill();
         rg.velocity *= 2; //速度乘二

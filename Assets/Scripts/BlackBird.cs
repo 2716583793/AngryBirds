@@ -9,7 +9,7 @@ public class BlackBird : Bird
     public List<Pig> blocks = new List<Pig>(); //存放靠近小鸟的障碍物的集合
 
     /// <summary>
-    /// 碰撞
+    /// 范围检测（进）
     /// </summary>
     /// <param name="coll"></param>
     private void OnTriggerEnter2D(Collider2D coll)
@@ -20,6 +20,10 @@ public class BlackBird : Bird
         }
     }
 
+    /// <summary>
+    /// 范围检测（出）
+    /// </summary>
+    /// <param name="coll"></param>
     private void OnTriggerExit2D(Collider2D coll)
     {
         if (coll.gameObject.CompareTag("Enemy")) //离开小鸟
@@ -28,23 +32,30 @@ public class BlackBird : Bird
         }
     }
 
-    public override void ShowBlackSkill() //爆炸技能
+    /// <summary>
+    /// 爆炸技能
+    /// </summary>
+    protected override void ShowBlackSkill()
     {
         base.ShowBlackSkill();
         if (blocks != null)
         {
             if (blocks.Count > 0)
             {
-                for (var i = 0; i < blocks.Count; i++) //遍历销毁靠近的物体
+                for (var i = 0; i < blocks.Count; i++)
                 {
                     blocks[i].Dead();
                 }
             }
         }
         OnClear();
-        Invoke("Next", 3f); //爆炸后销毁切换下一只小鸟
+        enabled = false; //禁用小鸟
+        Invoke("Next", 3f);
     }
 
+    /// <summary>
+    /// 清楚障碍物
+    /// </summary>
     private void OnClear()
     {
         rg.velocity = Vector3.zero;

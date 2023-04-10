@@ -279,6 +279,7 @@ MonoBehaviour:
   - {fileID: 1432283567911918316, guid: 6772bd94cbd6c6242941b178095f16b5, type: 3}
   - {fileID: 6835458958089309047, guid: 9e3d78c4c8f05444997cdd45e072c34c, type: 3}
   - {fileID: 6001118736056155380, guid: 9575ce199a5798e42ad920bdacb834b7, type: 3}
+  tailLine: []
   scoreText: {fileID: 296914858438690888}
   pauseButton: {fileID: 7369126353313125255}
   retryButton: {fileID: 253467128885111132}
@@ -647,7 +648,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8711682705638422226, guid: f30ece88dbf246944934fddeb6fb192d, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.5303535
+      value: -6
       objectReference: {fileID: 0}
     - target: {fileID: 8711682705638422226, guid: f30ece88dbf246944934fddeb6fb192d, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2117,7 +2118,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6372297479488745350, guid: 34fef8c122830254aa1124dc55500d00, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.51
+      value: -7
       objectReference: {fileID: 0}
     - target: {fileID: 6372297479488745350, guid: 34fef8c122830254aa1124dc55500d00, type: 3}
       propertyPath: m_LocalPosition.y

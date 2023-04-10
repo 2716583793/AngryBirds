@@ -35,14 +35,13 @@ public class Bird : MonoBehaviour
     public Sprite hurt; //小鸟受伤图片
     protected SpriteRenderer rd; //小鸟图片渲染
     
-    protected BlueBird _b1;
-    protected BlueBird _b2;
+    protected BlueBird b1;
+    protected BlueBird b2;
     [HideInInspector]public bool isShowBlue;
     
     /// <summary>
     /// 唤醒事件
     /// </summary>
-    /// <returns></returns>
     private void Awake()
     {
         //创建对象
@@ -89,7 +88,11 @@ public class Bird : MonoBehaviour
         //print(Camera.main.ScreenToWorldPoint(Input.mousePosition));
         //print(isClick);
         if (EventSystem.current.IsPointerOverGameObject()) //判断是否点击UI
+        {
+            //print("ui");
             return;
+        }
+        //print(PausePanel.animator.GetBool("isPause"));
         if (isClick) //鼠标按下时
         {
             Vector2 mp = Camera.main.ScreenToWorldPoint(Input.mousePosition);
@@ -125,6 +128,10 @@ public class Bird : MonoBehaviour
         if (!Input.GetMouseButtonDown(0))
             return;
         //鼠标左键按下
+        if (PausePanel.animator.GetBool("isPause")) //判断是否暂停
+        {
+            return;
+        }
         if (transform.GetComponent<Bird>() is BlackBird) //当前为黑鸟
         {
             if (!isOriginal) //非初始状态点击鼠标
@@ -205,7 +212,7 @@ public class Bird : MonoBehaviour
     /// <summary>
     /// 使用小鸟技能
     /// </summary>
-    public virtual void ShowSkill()
+    protected virtual void ShowSkill()
     {
         isFly = false; //取消飞行状态
     }
@@ -213,7 +220,7 @@ public class Bird : MonoBehaviour
     /// <summary>
     /// 使用黑鸟技能
     /// </summary>
-    public virtual void ShowBlackSkill()
+    protected virtual void ShowBlackSkill()
     {
         isFly = false; //取消飞行状态
     }
@@ -221,7 +228,7 @@ public class Bird : MonoBehaviour
     /// <summary>
     /// 小鸟受伤
     /// </summary>
-    public void Hurt()
+    private void Hurt()
     {
         rd.sprite = hurt; //修改图片为受伤状态
     }
@@ -230,7 +237,7 @@ public class Bird : MonoBehaviour
     /// 添加音效
     /// </summary>
     /// <param name="clip">指定音效</param>
-    public void AudioPlay(AudioClip clip)
+    private void AudioPlay(AudioClip clip)
     {
         AudioSource.PlayClipAtPoint(clip, transform.position); //添加指定音效
     }
@@ -238,11 +245,11 @@ public class Bird : MonoBehaviour
     /// <summary>
     /// 销毁分身
     /// </summary>
-    public void DropBirds()
+    private void DropBirds()
     {
-        Destroy(_b1.gameObject);
-        Destroy(_b2.gameObject);
-        Instantiate(_b1.boom, _b1.transform.position, Quaternion.identity); //显示小鸟销毁动画
-        Instantiate(_b2.boom, _b2.transform.position, Quaternion.identity); //显示小鸟销毁动画
+        Destroy(b1.gameObject);
+        Destroy(b2.gameObject);
+        Instantiate(b1.boom, b1.transform.position, Quaternion.identity); //显示小鸟销毁动画
+        Instantiate(b2.boom, b2.transform.position, Quaternion.identity); //显示小鸟销毁动画
     }
 }

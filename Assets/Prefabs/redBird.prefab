@@ -115,6 +115,7 @@ GameObject:
   - component: {fileID: 6372297479488745348}
   - component: {fileID: 6372297479488745349}
   - component: {fileID: 6372297479488745354}
+  - component: {fileID: 7954745710677989775}
   - component: {fileID: 6372297479785724578}
   m_Layer: 0
   m_Name: redBird
@@ -246,6 +247,22 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.2
+--- !u!58 &7954745710677989775
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6372297479488745352}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.8
 --- !u!114 &6372297479785724578
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -271,5 +288,5 @@ MonoBehaviour:
   hurtClip: {fileID: 8300000, guid: 32b5cb2ec3029484eb0a71e43bd697e0, type: 3}
   isFly: 0
   isOriginal: 1
-  isTooShort: 0
   hurt: {fileID: 8669725828687014486, guid: 2bd585ec19b3bf640ac3226b2ab0f92a, type: 3}
+  isShowBlue: 0

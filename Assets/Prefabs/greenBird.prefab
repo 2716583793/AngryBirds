@@ -115,6 +115,7 @@ GameObject:
   - component: {fileID: 8711682705638422224}
   - component: {fileID: 8711682705638422225}
   - component: {fileID: 8711682705638422238}
+  - component: {fileID: 5428187758330286655}
   - component: {fileID: 8955822863662454617}
   m_Layer: 0
   m_Name: greenBird
@@ -246,6 +247,22 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.35
+--- !u!58 &5428187758330286655
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8711682705638422236}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.8
 --- !u!114 &8955822863662454617
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -271,5 +288,5 @@ MonoBehaviour:
   hurtClip: {fileID: 8300000, guid: 32b5cb2ec3029484eb0a71e43bd697e0, type: 3}
   isFly: 0
   isOriginal: 1
-  isTooShort: 0
   hurt: {fileID: -5601588441658611051, guid: 2bd585ec19b3bf640ac3226b2ab0f92a, type: 3}
+  isShowBlue: 0

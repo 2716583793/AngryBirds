@@ -7,7 +7,7 @@ using UnityEngine.UI;
 /// </summary>
 public class PausePanel : MonoBehaviour
 {
-    private Animator _animator;
+    public static Animator animator;
     
 	public GameObject pauseButton;
     public GameObject retryButton;
@@ -16,7 +16,8 @@ public class PausePanel : MonoBehaviour
 
     private void Awake()
     {
-        _animator = GetComponent<Animator>();
+        animator = GetComponent<Animator>();
+        animator.SetBool("isPause", false);
     }
 
     /// <summary>
@@ -25,12 +26,12 @@ public class PausePanel : MonoBehaviour
     public void Pause()
     {
         // print("pause");
-        _animator.SetBool("isPause", true); //isPause设置为true
+        animator.SetBool("isPause", true); //isPause设置为true
         SetButtonHide();
 
-		int n = int.Parse((PlayerPrefs.GetString("nowLevel")).Substring(5, 1));
-		int a = n / 8;
-		int b = n % 8;
+        var n = int.Parse((PlayerPrefs.GetString("nowLevel")).Substring(5, 1));
+        var a = n / 8;
+		var b = n % 8;
 		gameText.text = ((1 + a) + " - " + b);
 		//print(gameText.text);
         
@@ -48,7 +49,7 @@ public class PausePanel : MonoBehaviour
     {
         // print("resume");
         Time.timeScale = 1; //恢复动画
-        _animator.SetBool("isPause", false); //isPause设置为false
+        animator.SetBool("isPause", false); //isPause设置为false
         
         if (GameManager.instance.birds.Count <= 0)
             return;
@@ -58,7 +59,7 @@ public class PausePanel : MonoBehaviour
         //现存鸟的数量大于零//第一只鸟是初始状态//当前鸟恢复为可移动
     }
 
-	public void SetButtonHide()
+	private void SetButtonHide()
     {
         pauseButton.SetActive(false); //隐藏按钮
         retryButton.SetActive(false); //隐藏按钮
