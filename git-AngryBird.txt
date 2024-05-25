@@ -1,0 +1,6 @@
+git add xxx
+
+git commit -m “update”
+
+git push -u origin master
+git pull --rebase origin master
