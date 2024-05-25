@@ -1,7 +1,7 @@
 # AngryBirds
-unity2020.3.17f1
-@author LuoLi
-@Date 2021/08/17
+unity(2020.3.17f1): 愤怒的小鸟
+@author: LuoLi
+@Date: 2021/08/17
 
 # screenshot
 ![图片](https://user-images.githubusercontent.com/79780314/230885017-b70fbbee-e88b-443b-a654-6785d7ceeecc.png)
