@@ -1,6 +1,6 @@
 # AngryBirds
-unity(2020.3.17f1): 愤怒的小鸟
-@author: LuoLi
+Unity(2020.3.17f1): 愤怒的小鸟
+@Author: LuoLi
 @Date: 2021/08/17
 
 # screenshot
